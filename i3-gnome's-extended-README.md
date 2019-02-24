@@ -3,7 +3,7 @@ On this wiki, we'll try to have a helpful documentation.
 
 
 ## Quick Access
-* [Tips & Tricks](https://github.com/51v4n/i3-gnome/wiki/Tips-&-Tricks)
+* [Tips & Tricks](https://github.com/csxr/i3-gnome/wiki/Tips-&-Tricks)
 
 ---
 ### Contributors list
@@ -13,4 +13,4 @@ On this wiki, we'll try to have a helpful documentation.
 * [@mist](https://github.com/mist)
 * [@killajoe](https://github.com/killajoe)
 * [@t-8ch](https://github.com/t-8ch)
-* [@51v4n](https://github.com/51v4n)
+* [@csxr](https://github.com/csxr) (current maintainer)
