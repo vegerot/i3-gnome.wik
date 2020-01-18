@@ -16,7 +16,7 @@ exec_always --no-startup-id gnome-power-manager
 ```
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 ```
-Starts authentication-agent needed to get `sudo` password check aviable for GUIs needing it.
+Starts authentication-agent needed to get `sudo` password check available for GUIs needing it.
 
 ### [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback)
 ```
